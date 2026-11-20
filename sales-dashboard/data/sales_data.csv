@@ -1,0 +1,501 @@
+transaction_id,date,region,category,product,sales_rep,customer_type,channel,payment_method,quantity,unit_price,discount_pct,revenue
+TXN-0001,2024-11-23,North,Sports,Dumbbell Set,Irma Susanti,Retail,In-Store,Cash,1,589132,9.0,536110
+TXN-0002,2024-02-17,South,Food & Beverage,Coffee Pack,Gita Lestari,Wholesale,In-Store,Digital Wallet,8,81229,14.0,558856
+TXN-0003,2024-01-04,West,Electronics,Smart TV,Fajar Nugroho,Retail,Online,BNPL,1,5516060,1.0,5460899
+TXN-0004,2024-06-25,West,Beauty,Perfume,Irma Susanti,Wholesale,Reseller,Bank Transfer,10,593748,22.0,4631234
+TXN-0005,2024-07-04,East,Sports,Yoga Mat,Dian Rahayu,Wholesale,In-Store,BNPL,4,277391,13.0,965321
+TXN-0006,2024-07-05,North,Food & Beverage,Mineral Water,Citra Dewi,Wholesale,In-Store,Credit Card,18,23317,20.0,335765
+TXN-0007,2024-07-13,South,Automotive,Engine Oil,Andi Saputra,Retail,Online,Digital Wallet,2,339523,12.0,597560
+TXN-0008,2024-07-24,South,Clothing,Sneakers,Gita Lestari,Corporate,Online,Cash,15,742341,11.0,9910252
+TXN-0009,2024-10-14,East,Sports,Bicycle,Citra Dewi,Corporate,Online,Credit Card,17,3363701,19.0,46318163
+TXN-0010,2024-02-26,North,Electronics,Smart TV,Hendra Wijaya,Wholesale,Online,Cash,17,6063871,10.0,92777226
+TXN-0011,2024-01-06,West,Electronics,Headphones,Eka Pratama,Wholesale,In-Store,Bank Transfer,14,1080779,8.0,13920434
+TXN-0012,2024-05-14,Central,Beauty,Foundation,Irma Susanti,Corporate,Reseller,Credit Card,20,302183,12.0,5318421
+TXN-0013,2024-03-23,East,Beauty,Foundation,Budi Hartono,Corporate,In-Store,Bank Transfer,12,330563,27.0,2895732
+TXN-0014,2024-06-06,South,Clothing,Sneakers,Budi Hartono,Corporate,Online,Bank Transfer,18,740543,25.0,9997330
+TXN-0015,2024-08-31,Central,Electronics,Headphones,Irma Susanti,Corporate,Online,Credit Card,7,1175758,24.0,6255033
+TXN-0016,2024-12-09,West,Food & Beverage,Protein Bar,Andi Saputra,Retail,Online,Credit Card,5,66150,8.0,304290
+TXN-0017,2024-01-04,North,Home & Living,Dining Table,Irma Susanti,Retail,Online,Bank Transfer,2,3190665,4.0,6126077
+TXN-0018,2024-10-03,North,Automotive,Engine Oil,Gita Lestari,Wholesale,Online,Bank Transfer,7,330175,7.0,2149439
+TXN-0019,2024-06-30,East,Food & Beverage,Coffee Pack,Gita Lestari,Wholesale,Reseller,Credit Card,11,78358,21.0,680931
+TXN-0020,2024-04-08,North,Food & Beverage,Fruit Juice,Budi Hartono,Retail,In-Store,Digital Wallet,4,48204,12.0,169678
+TXN-0021,2024-02-20,North,Automotive,Car Wax,Citra Dewi,Corporate,Reseller,Digital Wallet,14,169695,19.0,1924341
+TXN-0022,2024-07-24,Central,Electronics,Smartphone,Hendra Wijaya,Corporate,Online,Digital Wallet,10,3820122,17.0,31707013
+TXN-0023,2024-10-11,West,Food & Beverage,Snack Box,Irma Susanti,Retail,Reseller,Cash,1,109372,11.0,97341
+TXN-0024,2024-10-26,East,Automotive,Engine Oil,Citra Dewi,Retail,Reseller,Credit Card,1,331214,9.0,301405
+TXN-0025,2024-04-30,East,Automotive,Engine Oil,Gita Lestari,Retail,In-Store,Cash,5,308248,8.0,1417941
+TXN-0026,2024-05-13,South,Sports,Dumbbell Set,Hendra Wijaya,Retail,Online,Cash,3,706645,14.0,1823144
+TXN-0027,2024-01-05,East,Automotive,Car Wax,Fajar Nugroho,Retail,Online,Credit Card,1,175303,13.0,152514
+TXN-0028,2024-03-21,East,Home & Living,Bed Frame,Andi Saputra,Wholesale,Reseller,Cash,18,4956853,11.0,79408785
+TXN-0029,2024-03-09,South,Beauty,Foundation,Fajar Nugroho,Retail,Online,Credit Card,2,331881,10.0,597386
+TXN-0030,2024-09-15,East,Automotive,Car Wax,Andi Saputra,Retail,Online,Credit Card,3,184936,12.0,488231
+TXN-0031,2024-05-14,North,Food & Beverage,Fruit Juice,Citra Dewi,Wholesale,Online,BNPL,18,43823,6.0,741485
+TXN-0032,2024-10-09,North,Electronics,Tablet,Andi Saputra,Retail,Reseller,BNPL,3,4274577,3.0,12439019
+TXN-0033,2024-02-22,South,Home & Living,Lamp,Dian Rahayu,Corporate,In-Store,BNPL,6,371754,29.0,1583672
+TXN-0034,2024-07-30,North,Sports,Running Shoes,Dian Rahayu,Wholesale,Online,Cash,9,988243,8.0,8182652
+TXN-0035,2024-07-14,Central,Beauty,Moisturizer,Dian Rahayu,Retail,Reseller,Bank Transfer,2,206498,0.0,412996
+TXN-0036,2024-06-17,South,Electronics,Tablet,Irma Susanti,Retail,In-Store,Cash,3,4153808,14.0,10716825
+TXN-0037,2024-05-13,North,Automotive,Car Seat Cover,Fajar Nugroho,Retail,In-Store,Bank Transfer,4,420960,9.0,1532294
+TXN-0038,2024-07-16,Central,Electronics,Smartphone,Irma Susanti,Wholesale,Online,BNPL,7,3198982,12.0,19705729
+TXN-0039,2024-12-06,Central,Home & Living,Sofa Set,Gita Lestari,Wholesale,Online,Bank Transfer,11,5275221,13.0,50483865
+TXN-0040,2024-03-06,North,Sports,Bicycle,Eka Pratama,Wholesale,Reseller,Cash,13,2880260,16.0,31452439
+TXN-0041,2024-05-26,South,Beauty,Foundation,Dian Rahayu,Wholesale,In-Store,Bank Transfer,17,334873,14.0,4895843
+TXN-0042,2024-03-27,West,Clothing,Sneakers,Eka Pratama,Retail,Reseller,Digital Wallet,2,743577,12.0,1308696
+TXN-0043,2024-01-24,South,Food & Beverage,Coffee Pack,Gita Lestari,Retail,Reseller,Cash,4,79009,6.0,297074
+TXN-0044,2024-12-18,North,Beauty,Serum,Irma Susanti,Wholesale,Online,Digital Wallet,15,303949,6.0,4285681
+TXN-0045,2024-03-03,East,Beauty,Foundation,Hendra Wijaya,Corporate,In-Store,BNPL,20,334305,26.0,4947714
+TXN-0046,2024-08-06,West,Home & Living,Dining Table,Dian Rahayu,Wholesale,In-Store,Credit Card,9,3213632,20.0,23138150
+TXN-0047,2024-11-16,South,Food & Beverage,Mineral Water,Budi Hartono,Retail,Online,Digital Wallet,2,24415,2.0,47853
+TXN-0048,2024-03-19,West,Electronics,Smart TV,Gita Lestari,Retail,In-Store,Credit Card,4,6100895,14.0,20987079
+TXN-0049,2024-12-22,North,Beauty,Foundation,Gita Lestari,Retail,Online,Bank Transfer,4,324547,8.0,1194333
+TXN-0050,2024-11-04,Central,Food & Beverage,Mineral Water,Gita Lestari,Retail,Online,Bank Transfer,2,27098,13.0,47151
+TXN-0051,2024-11-14,East,Automotive,Engine Oil,Citra Dewi,Wholesale,Online,Cash,15,304650,9.0,4158472
+TXN-0052,2024-06-16,South,Clothing,Dress,Budi Hartono,Retail,Reseller,Bank Transfer,4,453548,0.0,1814192
+TXN-0053,2024-06-28,South,Electronics,Smartphone,Andi Saputra,Wholesale,Reseller,Credit Card,20,3238355,8.0,59585732
+TXN-0054,2024-12-08,North,Automotive,Dashboard Camera,Joko Purnomo,Wholesale,In-Store,Credit Card,4,886116,21.0,2800127
+TXN-0055,2024-06-08,North,Electronics,Tablet,Dian Rahayu,Wholesale,Reseller,Bank Transfer,3,4797514,17.0,11945810
+TXN-0056,2024-05-04,North,Beauty,Foundation,Andi Saputra,Corporate,In-Store,Cash,12,320014,20.0,3072134
+TXN-0057,2024-02-05,East,Clothing,Dress,Hendra Wijaya,Corporate,Online,BNPL,5,471042,18.0,1931272
+TXN-0058,2024-11-29,South,Beauty,Foundation,Joko Purnomo,Wholesale,In-Store,Digital Wallet,9,294221,11.0,2356710
+TXN-0059,2024-02-14,South,Food & Beverage,Fruit Juice,Hendra Wijaya,Wholesale,In-Store,Bank Transfer,11,42409,9.0,424514
+TXN-0060,2024-05-12,South,Beauty,Lip Gloss,Dian Rahayu,Wholesale,In-Store,Credit Card,14,99905,15.0,1188870
+TXN-0061,2024-12-19,East,Sports,Bicycle,Dian Rahayu,Wholesale,Online,Credit Card,10,3116173,18.0,25552619
+TXN-0062,2024-10-10,East,Food & Beverage,Protein Bar,Eka Pratama,Retail,In-Store,Credit Card,2,61004,2.0,119568
+TXN-0063,2024-03-02,West,Automotive,Tire Set,Joko Purnomo,Retail,In-Store,Credit Card,5,3069086,9.0,13964341
+TXN-0064,2024-04-09,South,Food & Beverage,Mineral Water,Andi Saputra,Retail,In-Store,Credit Card,5,27220,4.0,130656
+TXN-0065,2024-11-22,Central,Food & Beverage,Coffee Pack,Citra Dewi,Wholesale,In-Store,Bank Transfer,2,91149,10.0,164068
+TXN-0066,2024-02-28,West,Food & Beverage,Coffee Pack,Joko Purnomo,Wholesale,In-Store,Credit Card,10,80719,7.0,750687
+TXN-0067,2024-10-12,West,Home & Living,Curtain,Hendra Wijaya,Retail,In-Store,Bank Transfer,3,527043,13.0,1375582
+TXN-0068,2024-06-05,East,Electronics,Smartphone,Budi Hartono,Corporate,Online,Credit Card,6,3536395,13.0,18459982
+TXN-0069,2024-03-21,North,Food & Beverage,Protein Bar,Eka Pratama,Retail,Online,Credit Card,4,61535,1.0,243679
+TXN-0070,2024-05-15,West,Home & Living,Dining Table,Eka Pratama,Retail,In-Store,Cash,2,2986191,1.0,5912658
+TXN-0071,2024-06-06,East,Beauty,Lip Gloss,Gita Lestari,Retail,In-Store,Bank Transfer,3,94882,8.0,261874
+TXN-0072,2024-02-11,East,Beauty,Lip Gloss,Joko Purnomo,Wholesale,Online,Credit Card,19,104492,24.0,1508864
+TXN-0073,2024-12-10,West,Home & Living,Dining Table,Citra Dewi,Retail,In-Store,BNPL,5,3401117,7.0,15815194
+TXN-0074,2024-02-16,East,Food & Beverage,Mineral Water,Hendra Wijaya,Wholesale,Reseller,Bank Transfer,10,24502,18.0,200916
+TXN-0075,2024-10-08,North,Electronics,Tablet,Irma Susanti,Retail,Reseller,Bank Transfer,1,4538334,10.0,4084501
+TXN-0076,2024-07-30,North,Food & Beverage,Protein Bar,Dian Rahayu,Wholesale,In-Store,Digital Wallet,9,70560,16.0,533434
+TXN-0077,2024-08-12,Central,Food & Beverage,Coffee Pack,Citra Dewi,Corporate,In-Store,Credit Card,10,85888,20.0,687104
+TXN-0078,2024-02-17,South,Beauty,Serum,Hendra Wijaya,Retail,Online,Digital Wallet,3,305499,8.0,843177
+TXN-0079,2024-09-04,Central,Clothing,Sneakers,Citra Dewi,Retail,Online,Cash,1,846401,4.0,812545
+TXN-0080,2024-07-31,South,Beauty,Lip Gloss,Joko Purnomo,Corporate,Online,Credit Card,19,94803,30.0,1260880
+TXN-0081,2024-03-17,East,Food & Beverage,Mineral Water,Fajar Nugroho,Wholesale,In-Store,Bank Transfer,7,23694,25.0,124394
+TXN-0082,2024-07-15,South,Beauty,Serum,Gita Lestari,Retail,In-Store,BNPL,4,338713,15.0,1151624
+TXN-0083,2024-11-29,Central,Food & Beverage,Coffee Pack,Budi Hartono,Retail,Reseller,Bank Transfer,4,91978,1.0,364233
+TXN-0084,2024-01-08,West,Food & Beverage,Snack Box,Joko Purnomo,Retail,In-Store,Credit Card,4,128442,10.0,462391
+TXN-0085,2024-12-11,Central,Food & Beverage,Mineral Water,Irma Susanti,Wholesale,Reseller,Bank Transfer,2,23674,17.0,39299
+TXN-0086,2024-12-16,Central,Automotive,Car Wax,Budi Hartono,Retail,Online,Cash,4,172781,2.0,677302
+TXN-0087,2024-01-15,North,Beauty,Lip Gloss,Gita Lestari,Retail,Online,Credit Card,5,88921,10.0,400144
+TXN-0088,2024-03-30,North,Beauty,Foundation,Dian Rahayu,Wholesale,In-Store,Cash,15,307493,18.0,3782164
+TXN-0089,2024-12-07,North,Beauty,Lip Gloss,Fajar Nugroho,Wholesale,Online,Bank Transfer,19,103779,11.0,1754903
+TXN-0090,2024-12-19,South,Beauty,Moisturizer,Gita Lestari,Corporate,Reseller,Credit Card,19,211018,16.0,3367847
+TXN-0091,2024-12-24,South,Automotive,Dashboard Camera,Andi Saputra,Retail,In-Store,Cash,5,1013239,11.0,4508914
+TXN-0092,2024-05-26,West,Clothing,Jacket,Citra Dewi,Retail,Online,Credit Card,1,669024,14.0,575361
+TXN-0093,2024-06-07,West,Electronics,Tablet,Gita Lestari,Wholesale,Online,Credit Card,6,4757862,9.0,25977927
+TXN-0094,2024-07-06,East,Automotive,Tire Set,Eka Pratama,Retail,Reseller,Bank Transfer,3,2782266,12.0,7345182
+TXN-0095,2024-02-08,North,Automotive,Dashboard Camera,Gita Lestari,Corporate,Reseller,Bank Transfer,1,878482,14.0,755495
+TXN-0096,2024-07-07,West,Sports,Swimming Goggles,Dian Rahayu,Retail,In-Store,Bank Transfer,4,193832,0.0,775328
+TXN-0097,2024-10-14,South,Home & Living,Sofa Set,Gita Lestari,Wholesale,In-Store,Digital Wallet,4,5990888,8.0,22046468
+TXN-0098,2024-06-04,Central,Electronics,Laptop,Irma Susanti,Corporate,Online,Bank Transfer,14,8362559,21.0,92489903
+TXN-0099,2024-07-31,West,Beauty,Foundation,Fajar Nugroho,Retail,Reseller,Credit Card,2,337934,7.0,628557
+TXN-0100,2024-07-04,North,Sports,Swimming Goggles,Eka Pratama,Corporate,In-Store,Credit Card,7,196164,29.0,974935
+TXN-0101,2024-08-20,North,Clothing,Sneakers,Citra Dewi,Corporate,Online,Bank Transfer,19,852771,13.0,14096305
+TXN-0102,2024-10-10,South,Clothing,Jeans,Andi Saputra,Retail,Online,BNPL,3,325128,13.0,848584
+TXN-0103,2024-03-07,East,Beauty,Serum,Dian Rahayu,Wholesale,Online,Credit Card,19,299152,11.0,5058660
+TXN-0104,2024-01-27,North,Food & Beverage,Coffee Pack,Irma Susanti,Wholesale,In-Store,Digital Wallet,19,85065,7.0,1503099
+TXN-0105,2024-11-10,North,Beauty,Foundation,Hendra Wijaya,Retail,In-Store,Credit Card,4,285694,6.0,1074209
+TXN-0106,2024-12-30,Central,Electronics,Smartphone,Joko Purnomo,Retail,Online,Credit Card,5,3377630,8.0,15537098
+TXN-0107,2024-11-01,East,Food & Beverage,Protein Bar,Irma Susanti,Retail,In-Store,Credit Card,2,70045,6.0,131685
+TXN-0108,2024-07-30,South,Food & Beverage,Fruit Juice,Eka Pratama,Wholesale,Online,Bank Transfer,12,46681,24.0,425731
+TXN-0109,2024-08-30,North,Beauty,Serum,Citra Dewi,Retail,In-Store,Bank Transfer,5,349224,1.0,1728659
+TXN-0110,2024-10-14,South,Electronics,Tablet,Andi Saputra,Corporate,Reseller,Bank Transfer,10,4366482,21.0,34495208
+TXN-0111,2024-10-22,East,Electronics,Smart TV,Fajar Nugroho,Retail,Online,Digital Wallet,1,6088920,11.0,5419139
+TXN-0112,2024-08-07,West,Automotive,Engine Oil,Eka Pratama,Wholesale,In-Store,Credit Card,1,332973,9.0,303005
+TXN-0113,2024-06-07,Central,Food & Beverage,Snack Box,Citra Dewi,Corporate,In-Store,Bank Transfer,1,120732,10.0,108659
+TXN-0114,2024-07-11,East,Clothing,Jacket,Joko Purnomo,Retail,Online,BNPL,1,605225,13.0,526546
+TXN-0115,2024-11-12,North,Electronics,Smart TV,Eka Pratama,Wholesale,In-Store,Bank Transfer,7,5536581,20.0,31004854
+TXN-0116,2024-08-08,North,Sports,Swimming Goggles,Gita Lestari,Retail,In-Store,Credit Card,5,169359,1.0,838327
+TXN-0117,2024-04-18,West,Beauty,Lip Gloss,Citra Dewi,Retail,Online,Digital Wallet,2,98870,6.0,185876
+TXN-0118,2024-09-13,East,Sports,Running Shoes,Andi Saputra,Retail,Reseller,Credit Card,4,1018801,14.0,3504675
+TXN-0119,2024-10-21,East,Food & Beverage,Fruit Juice,Citra Dewi,Retail,Online,BNPL,5,46706,7.0,217183
+TXN-0120,2024-07-04,North,Beauty,Moisturizer,Eka Pratama,Retail,Online,Credit Card,3,232281,3.0,675938
+TXN-0121,2024-02-09,East,Electronics,Headphones,Citra Dewi,Retail,In-Store,Bank Transfer,2,1141432,2.0,2237207
+TXN-0122,2024-03-29,West,Beauty,Serum,Joko Purnomo,Retail,In-Store,Bank Transfer,5,347146,7.0,1614229
+TXN-0123,2024-10-16,West,Automotive,Car Seat Cover,Budi Hartono,Corporate,In-Store,Credit Card,16,403437,18.0,5293093
+TXN-0124,2024-05-20,East,Food & Beverage,Coffee Pack,Eka Pratama,Retail,In-Store,Credit Card,1,93115,10.0,83804
+TXN-0125,2024-02-16,West,Food & Beverage,Fruit Juice,Andi Saputra,Wholesale,Reseller,Digital Wallet,15,45645,23.0,527200
+TXN-0126,2024-04-06,South,Food & Beverage,Snack Box,Fajar Nugroho,Corporate,In-Store,Digital Wallet,3,112141,19.0,272503
+TXN-0127,2024-05-06,West,Automotive,Engine Oil,Eka Pratama,Wholesale,Online,Bank Transfer,13,309655,13.0,3502198
+TXN-0128,2024-11-02,North,Home & Living,Bed Frame,Eka Pratama,Retail,Online,Cash,3,4950302,11.0,13217306
+TXN-0129,2024-11-04,Central,Clothing,Sneakers,Gita Lestari,Wholesale,Reseller,Bank Transfer,5,870080,17.0,3610832
+TXN-0130,2024-06-07,East,Home & Living,Bed Frame,Irma Susanti,Corporate,In-Store,Digital Wallet,3,4726470,22.0,11059940
+TXN-0131,2024-07-04,North,Clothing,Jeans,Citra Dewi,Retail,In-Store,Credit Card,2,374110,1.0,740738
+TXN-0132,2024-02-21,East,Home & Living,Curtain,Citra Dewi,Retail,Online,Digital Wallet,5,447576,6.0,2103607
+TXN-0133,2024-12-20,West,Beauty,Moisturizer,Dian Rahayu,Wholesale,Online,Bank Transfer,15,231105,17.0,2877257
+TXN-0134,2024-08-17,South,Clothing,Dress,Joko Purnomo,Corporate,Online,Cash,15,430359,18.0,5293416
+TXN-0135,2024-07-14,East,Food & Beverage,Snack Box,Eka Pratama,Corporate,Reseller,Credit Card,2,128979,22.0,201207
+TXN-0136,2024-10-10,Central,Sports,Swimming Goggles,Eka Pratama,Corporate,Online,Digital Wallet,15,167305,28.0,1806894
+TXN-0137,2024-08-11,North,Automotive,Dashboard Camera,Gita Lestari,Corporate,Reseller,Bank Transfer,17,928372,16.0,13257152
+TXN-0138,2024-02-11,South,Electronics,Smartphone,Citra Dewi,Corporate,In-Store,Digital Wallet,2,3730833,14.0,6417033
+TXN-0139,2024-12-22,West,Beauty,Perfume,Eka Pratama,Retail,Online,Credit Card,2,585661,13.0,1019050
+TXN-0140,2024-11-07,East,Electronics,Tablet,Joko Purnomo,Retail,Online,Credit Card,4,4803019,1.0,19019955
+TXN-0141,2024-09-12,East,Electronics,Headphones,Andi Saputra,Wholesale,In-Store,Credit Card,20,1216959,12.0,21418478
+TXN-0142,2024-04-05,West,Electronics,Tablet,Irma Susanti,Retail,In-Store,Bank Transfer,5,4835998,0.0,24179990
+TXN-0143,2024-01-23,West,Automotive,Car Seat Cover,Dian Rahayu,Wholesale,Online,Credit Card,4,439756,20.0,1407219
+TXN-0144,2024-06-19,North,Food & Beverage,Mineral Water,Hendra Wijaya,Corporate,Online,Digital Wallet,16,26557,22.0,331431
+TXN-0145,2024-02-02,West,Automotive,Car Wax,Andi Saputra,Retail,Online,Credit Card,3,180554,14.0,465829
+TXN-0146,2024-10-05,East,Electronics,Laptop,Fajar Nugroho,Retail,Reseller,Credit Card,3,7788831,2.0,22899163
+TXN-0147,2024-07-23,West,Automotive,Dashboard Camera,Fajar Nugroho,Retail,Online,Cash,5,870696,4.0,4179341
+TXN-0148,2024-08-05,North,Home & Living,Dining Table,Eka Pratama,Wholesale,Online,Credit Card,10,3339304,14.0,28718014
+TXN-0149,2024-03-26,West,Food & Beverage,Coffee Pack,Gita Lestari,Wholesale,Reseller,Cash,9,89955,18.0,663868
+TXN-0150,2024-01-30,North,Home & Living,Bed Frame,Andi Saputra,Wholesale,In-Store,Credit Card,5,4970965,22.0,19386764
+TXN-0151,2024-08-12,North,Electronics,Tablet,Citra Dewi,Retail,Reseller,Credit Card,4,4384812,14.0,15083753
+TXN-0152,2024-02-09,East,Food & Beverage,Fruit Juice,Andi Saputra,Retail,Online,BNPL,2,43983,7.0,81808
+TXN-0153,2024-10-14,North,Beauty,Perfume,Hendra Wijaya,Retail,In-Store,Cash,2,620928,2.0,1217019
+TXN-0154,2024-08-19,North,Sports,Yoga Mat,Fajar Nugroho,Corporate,Reseller,BNPL,3,268260,20.0,643824
+TXN-0155,2024-06-02,Central,Sports,Dumbbell Set,Dian Rahayu,Wholesale,In-Store,Credit Card,5,649223,10.0,2921504
+TXN-0156,2024-07-03,East,Food & Beverage,Protein Bar,Gita Lestari,Retail,Reseller,Credit Card,4,68499,8.0,252076
+TXN-0157,2024-10-21,North,Automotive,Car Wax,Irma Susanti,Retail,In-Store,Bank Transfer,5,196786,3.0,954412
+TXN-0158,2024-08-09,East,Beauty,Serum,Dian Rahayu,Wholesale,Online,Credit Card,12,321209,24.0,2929426
+TXN-0159,2024-05-25,West,Clothing,Sneakers,Budi Hartono,Retail,In-Store,Cash,5,814689,10.0,3666100
+TXN-0160,2024-10-24,North,Sports,Swimming Goggles,Andi Saputra,Retail,Reseller,Credit Card,1,185092,1.0,183241
+TXN-0161,2024-10-22,South,Clothing,Sneakers,Irma Susanti,Retail,In-Store,Bank Transfer,3,768335,10.0,2074504
+TXN-0162,2024-05-05,West,Sports,Running Shoes,Gita Lestari,Retail,In-Store,Credit Card,4,919637,7.0,3421050
+TXN-0163,2024-03-14,South,Sports,Running Shoes,Irma Susanti,Corporate,Online,Bank Transfer,4,943630,15.0,3208342
+TXN-0164,2024-05-16,East,Electronics,Smartphone,Dian Rahayu,Retail,Online,Cash,2,3803626,12.0,6694382
+TXN-0165,2024-06-09,North,Electronics,Headphones,Budi Hartono,Retail,Reseller,Bank Transfer,4,1312005,8.0,4828178
+TXN-0166,2024-04-20,East,Electronics,Tablet,Hendra Wijaya,Retail,Reseller,Cash,3,4812455,8.0,13282376
+TXN-0167,2024-08-08,North,Clothing,Jacket,Joko Purnomo,Wholesale,Online,Bank Transfer,18,656919,9.0,10760333
+TXN-0168,2024-02-07,East,Food & Beverage,Protein Bar,Budi Hartono,Retail,Reseller,Cash,2,63621,15.0,108156
+TXN-0169,2024-06-22,East,Food & Beverage,Snack Box,Andi Saputra,Retail,In-Store,Bank Transfer,1,115993,2.0,113673
+TXN-0170,2024-08-30,East,Electronics,Headphones,Gita Lestari,Retail,Reseller,Bank Transfer,5,1151816,11.0,5125581
+TXN-0171,2024-06-21,East,Food & Beverage,Fruit Juice,Fajar Nugroho,Wholesale,Online,Digital Wallet,11,49319,18.0,444857
+TXN-0172,2024-10-25,South,Automotive,Car Wax,Joko Purnomo,Wholesale,Online,Cash,19,163849,10.0,2801818
+TXN-0173,2024-09-02,North,Home & Living,Curtain,Dian Rahayu,Wholesale,Online,Digital Wallet,2,499250,16.0,838740
+TXN-0174,2024-04-07,North,Clothing,Jeans,Joko Purnomo,Retail,Online,Bank Transfer,4,366509,13.0,1275451
+TXN-0175,2024-02-01,West,Food & Beverage,Protein Bar,Fajar Nugroho,Retail,In-Store,Bank Transfer,2,65431,7.0,121702
+TXN-0176,2024-10-06,South,Beauty,Lip Gloss,Irma Susanti,Wholesale,Online,Credit Card,10,103985,9.0,946264
+TXN-0177,2024-06-01,West,Sports,Bicycle,Eka Pratama,Retail,Online,BNPL,3,3313038,2.0,9740332
+TXN-0178,2024-07-13,Central,Food & Beverage,Mineral Water,Eka Pratama,Corporate,Reseller,Credit Card,3,24712,16.0,62274
+TXN-0179,2024-05-11,West,Clothing,Sneakers,Budi Hartono,Retail,In-Store,Credit Card,5,758285,11.0,3374368
+TXN-0180,2024-01-26,West,Home & Living,Dining Table,Budi Hartono,Retail,Online,Digital Wallet,2,3232226,0.0,6464452
+TXN-0181,2024-03-21,East,Automotive,Dashboard Camera,Fajar Nugroho,Retail,Online,BNPL,3,1027508,10.0,2774272
+TXN-0182,2024-02-15,West,Clothing,T-Shirt,Citra Dewi,Corporate,Online,Digital Wallet,2,146910,30.0,205674
+TXN-0183,2024-09-10,North,Sports,Running Shoes,Budi Hartono,Corporate,Online,Cash,11,1042929,14.0,9866108
+TXN-0184,2024-10-05,East,Beauty,Moisturizer,Budi Hartono,Corporate,In-Store,Credit Card,11,218192,12.0,2112099
+TXN-0185,2024-05-11,West,Electronics,Tablet,Citra Dewi,Wholesale,In-Store,Digital Wallet,20,4857338,22.0,75774473
+TXN-0186,2024-08-06,East,Electronics,Smartphone,Dian Rahayu,Retail,Online,Bank Transfer,1,3314865,4.0,3182270
+TXN-0187,2024-05-16,Central,Clothing,Sneakers,Andi Saputra,Retail,In-Store,Cash,1,745555,7.0,693366
+TXN-0188,2024-12-17,East,Automotive,Car Seat Cover,Fajar Nugroho,Wholesale,In-Store,BNPL,20,458418,9.0,8343208
+TXN-0189,2024-09-01,North,Sports,Swimming Goggles,Irma Susanti,Retail,In-Store,BNPL,2,186492,11.0,331956
+TXN-0190,2024-11-01,Central,Electronics,Smart TV,Budi Hartono,Wholesale,Online,BNPL,2,6483466,22.0,10114207
+TXN-0191,2024-04-13,East,Electronics,Tablet,Joko Purnomo,Corporate,Online,Cash,16,4509338,10.0,64934467
+TXN-0192,2024-01-29,East,Food & Beverage,Fruit Juice,Eka Pratama,Wholesale,In-Store,Cash,1,47848,13.0,41628
+TXN-0193,2024-04-21,East,Electronics,Tablet,Budi Hartono,Wholesale,In-Store,Credit Card,16,4417980,6.0,66446419
+TXN-0194,2024-03-10,West,Automotive,Dashboard Camera,Gita Lestari,Retail,Reseller,Bank Transfer,4,1038187,1.0,4111221
+TXN-0195,2024-10-03,North,Beauty,Serum,Dian Rahayu,Retail,In-Store,Bank Transfer,1,350623,11.0,312054
+TXN-0196,2024-08-25,West,Home & Living,Curtain,Citra Dewi,Retail,Online,Bank Transfer,3,516020,3.0,1501618
+TXN-0197,2024-02-27,North,Sports,Swimming Goggles,Dian Rahayu,Wholesale,Reseller,Credit Card,3,163209,7.0,455353
+TXN-0198,2024-11-02,West,Beauty,Moisturizer,Dian Rahayu,Wholesale,Online,Credit Card,2,241713,8.0,444752
+TXN-0199,2024-04-29,West,Sports,Running Shoes,Dian Rahayu,Wholesale,In-Store,Digital Wallet,10,1042282,23.0,8025571
+TXN-0200,2024-09-23,South,Clothing,T-Shirt,Citra Dewi,Wholesale,In-Store,Digital Wallet,14,136407,16.0,1604146
+TXN-0201,2024-06-25,Central,Sports,Swimming Goggles,Gita Lestari,Retail,Online,Credit Card,2,179047,11.0,318704
+TXN-0202,2024-04-25,South,Sports,Bicycle,Irma Susanti,Corporate,In-Store,BNPL,17,3035429,11.0,45926041
+TXN-0203,2024-04-14,South,Electronics,Smart TV,Dian Rahayu,Corporate,Online,Digital Wallet,2,6208406,14.0,10678458
+TXN-0204,2024-11-04,North,Electronics,Headphones,Fajar Nugroho,Wholesale,In-Store,Bank Transfer,10,1083680,24.0,8235968
+TXN-0205,2024-04-07,Central,Electronics,Smart TV,Gita Lestari,Corporate,In-Store,Digital Wallet,8,6330617,20.0,40515949
+TXN-0206,2024-07-13,East,Home & Living,Bed Frame,Budi Hartono,Retail,In-Store,Bank Transfer,4,4627424,11.0,16473629
+TXN-0207,2024-04-14,South,Food & Beverage,Protein Bar,Irma Susanti,Corporate,In-Store,Credit Card,19,63929,21.0,959574
+TXN-0208,2024-03-19,North,Clothing,Sneakers,Fajar Nugroho,Corporate,In-Store,Cash,9,798179,25.0,5387708
+TXN-0209,2024-11-24,West,Food & Beverage,Mineral Water,Irma Susanti,Retail,In-Store,Bank Transfer,1,26695,8.0,24559
+TXN-0210,2024-02-08,Central,Sports,Yoga Mat,Citra Dewi,Retail,Reseller,Credit Card,1,277537,3.0,269211
+TXN-0211,2024-01-31,West,Sports,Swimming Goggles,Irma Susanti,Corporate,In-Store,Credit Card,18,162602,17.0,2429274
+TXN-0212,2024-05-20,East,Clothing,Sneakers,Citra Dewi,Corporate,In-Store,Digital Wallet,4,803902,28.0,2315238
+TXN-0213,2024-05-03,North,Food & Beverage,Mineral Water,Gita Lestari,Retail,Online,Bank Transfer,4,27451,8.0,101020
+TXN-0214,2024-04-25,South,Beauty,Serum,Budi Hartono,Wholesale,Reseller,Digital Wallet,13,323373,13.0,3657349
+TXN-0215,2024-01-29,West,Sports,Yoga Mat,Joko Purnomo,Retail,Online,Digital Wallet,1,303473,13.0,264022
+TXN-0216,2024-04-27,South,Beauty,Foundation,Eka Pratama,Retail,Online,Credit Card,5,281040,8.0,1292784
+TXN-0217,2024-06-10,North,Clothing,Jeans,Budi Hartono,Wholesale,In-Store,Bank Transfer,10,331833,8.0,3052864
+TXN-0218,2024-07-18,West,Home & Living,Lamp,Budi Hartono,Wholesale,Online,BNPL,17,339210,20.0,4613256
+TXN-0219,2024-02-20,East,Beauty,Lip Gloss,Fajar Nugroho,Wholesale,In-Store,Cash,1,100387,18.0,82317
+TXN-0220,2024-08-18,East,Food & Beverage,Fruit Juice,Budi Hartono,Retail,In-Store,Cash,5,42718,4.0,205046
+TXN-0221,2024-02-07,North,Electronics,Laptop,Andi Saputra,Wholesale,Online,Credit Card,10,8418154,14.0,72396124
+TXN-0222,2024-02-22,North,Electronics,Smart TV,Budi Hartono,Wholesale,In-Store,Credit Card,12,6116309,16.0,61652395
+TXN-0223,2024-06-15,Central,Electronics,Smart TV,Dian Rahayu,Retail,Online,BNPL,5,6222379,8.0,28622943
+TXN-0224,2024-03-27,North,Clothing,Dress,Eka Pratama,Retail,Online,Credit Card,4,437501,12.0,1540004
+TXN-0225,2024-05-06,West,Food & Beverage,Protein Bar,Gita Lestari,Retail,Online,Bank Transfer,3,63439,13.0,165576
+TXN-0226,2024-06-17,East,Food & Beverage,Protein Bar,Dian Rahayu,Retail,Online,BNPL,4,71039,5.0,269948
+TXN-0227,2024-06-12,South,Sports,Bicycle,Eka Pratama,Corporate,In-Store,Bank Transfer,13,3476523,16.0,37963631
+TXN-0228,2024-04-12,East,Home & Living,Curtain,Dian Rahayu,Retail,In-Store,BNPL,4,511803,12.0,1801547
+TXN-0229,2024-02-05,West,Beauty,Perfume,Eka Pratama,Wholesale,Online,Bank Transfer,5,613533,19.0,2484809
+TXN-0230,2024-02-07,East,Home & Living,Curtain,Gita Lestari,Retail,In-Store,BNPL,5,524969,1.0,2598597
+TXN-0231,2024-12-25,Central,Home & Living,Sofa Set,Citra Dewi,Retail,Online,Cash,5,6031969,1.0,29858247
+TXN-0232,2024-12-12,West,Automotive,Car Seat Cover,Eka Pratama,Corporate,Online,Credit Card,8,421579,19.0,2731832
+TXN-0233,2024-10-24,West,Clothing,Jacket,Irma Susanti,Retail,In-Store,Cash,2,588193,5.0,1117567
+TXN-0234,2024-02-23,South,Automotive,Car Wax,Eka Pratama,Retail,Reseller,Credit Card,3,169447,7.0,472757
+TXN-0235,2024-09-04,South,Electronics,Smart TV,Budi Hartono,Retail,Online,Digital Wallet,1,6177564,13.0,5374481
+TXN-0236,2024-12-12,West,Automotive,Tire Set,Gita Lestari,Wholesale,In-Store,Bank Transfer,15,2746827,10.0,37082164
+TXN-0237,2024-04-04,North,Sports,Bicycle,Joko Purnomo,Retail,In-Store,Credit Card,4,3331031,6.0,12524677
+TXN-0238,2024-04-15,South,Sports,Yoga Mat,Fajar Nugroho,Wholesale,In-Store,Bank Transfer,11,258381,9.0,2586394
+TXN-0239,2024-12-09,Central,Food & Beverage,Mineral Water,Fajar Nugroho,Wholesale,In-Store,Cash,12,25587,22.0,239494
+TXN-0240,2024-12-10,West,Clothing,Sneakers,Dian Rahayu,Wholesale,In-Store,Bank Transfer,10,779729,7.0,7251480
+TXN-0241,2024-03-13,East,Food & Beverage,Snack Box,Irma Susanti,Wholesale,Online,Bank Transfer,6,119751,16.0,603545
+TXN-0242,2024-03-12,North,Beauty,Foundation,Citra Dewi,Retail,Online,Credit Card,2,338757,12.0,596212
+TXN-0243,2024-09-15,West,Food & Beverage,Fruit Juice,Budi Hartono,Retail,Reseller,Bank Transfer,5,47350,0.0,236750
+TXN-0244,2024-05-29,North,Clothing,Jacket,Hendra Wijaya,Retail,In-Store,Digital Wallet,5,659453,8.0,3033484
+TXN-0245,2024-05-17,West,Beauty,Lip Gloss,Hendra Wijaya,Wholesale,In-Store,Digital Wallet,18,93578,9.0,1532808
+TXN-0246,2024-11-30,West,Clothing,T-Shirt,Hendra Wijaya,Retail,Online,Digital Wallet,1,142108,12.0,125055
+TXN-0247,2024-10-28,West,Beauty,Foundation,Dian Rahayu,Wholesale,Online,Credit Card,7,314345,21.0,1738328
+TXN-0248,2024-09-29,South,Home & Living,Bed Frame,Irma Susanti,Corporate,Online,Cash,4,5040090,11.0,17942720
+TXN-0249,2024-07-29,Central,Automotive,Tire Set,Fajar Nugroho,Wholesale,Online,Credit Card,8,2898691,20.0,18551622
+TXN-0250,2024-09-07,North,Home & Living,Lamp,Budi Hartono,Retail,Online,Digital Wallet,4,334476,8.0,1230872
+TXN-0251,2024-07-07,East,Food & Beverage,Protein Bar,Hendra Wijaya,Retail,In-Store,Digital Wallet,3,68844,13.0,179683
+TXN-0252,2024-07-22,South,Food & Beverage,Snack Box,Irma Susanti,Retail,Online,Credit Card,5,128458,2.0,629444
+TXN-0253,2024-06-24,Central,Beauty,Serum,Budi Hartono,Retail,In-Store,Bank Transfer,2,288043,7.0,535760
+TXN-0254,2024-08-07,South,Sports,Dumbbell Set,Eka Pratama,Corporate,Online,Digital Wallet,3,617551,22.0,1445069
+TXN-0255,2024-07-09,West,Home & Living,Sofa Set,Dian Rahayu,Retail,Online,Cash,4,5724068,10.0,20606645
+TXN-0256,2024-01-01,South,Electronics,Headphones,Fajar Nugroho,Retail,In-Store,Credit Card,1,1181355,15.0,1004152
+TXN-0257,2024-03-08,East,Clothing,T-Shirt,Eka Pratama,Wholesale,Online,Bank Transfer,5,159401,13.0,693394
+TXN-0258,2024-03-09,West,Sports,Yoga Mat,Hendra Wijaya,Wholesale,Online,Cash,12,287172,19.0,2791312
+TXN-0259,2024-03-18,Central,Home & Living,Lamp,Budi Hartono,Corporate,Online,Credit Card,19,339607,24.0,4903925
+TXN-0260,2024-08-07,South,Electronics,Tablet,Joko Purnomo,Wholesale,Online,Cash,10,4671428,21.0,36904281
+TXN-0261,2024-12-03,Central,Clothing,Sneakers,Andi Saputra,Wholesale,In-Store,Credit Card,8,738039,15.0,5018665
+TXN-0262,2024-09-12,West,Electronics,Smartphone,Joko Purnomo,Corporate,Reseller,Credit Card,14,3628059,16.0,42665974
+TXN-0263,2024-08-29,Central,Beauty,Serum,Andi Saputra,Wholesale,Online,Credit Card,13,328229,15.0,3626930
+TXN-0264,2024-09-13,West,Food & Beverage,Fruit Juice,Eka Pratama,Retail,In-Store,Cash,1,45102,5.0,42847
+TXN-0265,2024-04-14,Central,Electronics,Tablet,Budi Hartono,Retail,In-Store,Digital Wallet,3,4706963,10.0,12708800
+TXN-0266,2024-05-02,North,Electronics,Smart TV,Citra Dewi,Retail,In-Store,Credit Card,1,5564654,0.0,5564654
+TXN-0267,2024-01-06,North,Automotive,Engine Oil,Fajar Nugroho,Wholesale,Reseller,Credit Card,5,343901,20.0,1375604
+TXN-0268,2024-03-01,West,Electronics,Smart TV,Joko Purnomo,Retail,Online,Digital Wallet,1,6012938,7.0,5592032
+TXN-0269,2024-01-29,East,Home & Living,Bed Frame,Budi Hartono,Retail,In-Store,Digital Wallet,2,4322466,11.0,7693989
+TXN-0270,2024-01-07,South,Food & Beverage,Fruit Juice,Andi Saputra,Corporate,Online,BNPL,18,46926,26.0,625054
+TXN-0271,2024-12-01,East,Clothing,Dress,Joko Purnomo,Corporate,Online,Digital Wallet,12,465599,11.0,4972597
+TXN-0272,2024-01-27,North,Beauty,Serum,Eka Pratama,Corporate,Online,Bank Transfer,10,323398,15.0,2748883
+TXN-0273,2024-01-05,South,Clothing,Jacket,Hendra Wijaya,Wholesale,Online,Bank Transfer,7,656053,20.0,3673897
+TXN-0274,2024-05-05,North,Automotive,Car Wax,Andi Saputra,Retail,Online,Digital Wallet,3,185663,0.0,556989
+TXN-0275,2024-06-06,North,Food & Beverage,Snack Box,Citra Dewi,Retail,Reseller,BNPL,3,130111,1.0,386430
+TXN-0276,2024-09-23,East,Automotive,Dashboard Camera,Citra Dewi,Corporate,Online,Credit Card,13,962886,10.0,11265766
+TXN-0277,2024-08-10,West,Electronics,Tablet,Fajar Nugroho,Retail,Online,Digital Wallet,3,4260250,7.0,11886098
+TXN-0278,2024-04-13,North,Beauty,Serum,Gita Lestari,Retail,Online,Bank Transfer,1,349737,8.0,321758
+TXN-0279,2024-04-16,East,Food & Beverage,Coffee Pack,Joko Purnomo,Retail,Reseller,Bank Transfer,1,91062,3.0,88330
+TXN-0280,2024-03-16,North,Clothing,Jacket,Citra Dewi,Retail,Online,Credit Card,1,696098,14.0,598644
+TXN-0281,2024-10-11,West,Clothing,Dress,Andi Saputra,Retail,In-Store,Credit Card,2,479131,2.0,939097
+TXN-0282,2024-07-09,West,Automotive,Car Wax,Andi Saputra,Wholesale,Online,Digital Wallet,3,185256,9.0,505749
+TXN-0283,2024-03-06,North,Beauty,Lip Gloss,Joko Purnomo,Retail,Reseller,Credit Card,4,93005,12.0,327378
+TXN-0284,2024-01-16,East,Food & Beverage,Mineral Water,Citra Dewi,Retail,Online,Credit Card,1,25585,9.0,23282
+TXN-0285,2024-11-27,South,Food & Beverage,Protein Bar,Gita Lestari,Retail,Online,Bank Transfer,2,68864,10.0,123955
+TXN-0286,2024-05-07,West,Beauty,Serum,Irma Susanti,Corporate,In-Store,Bank Transfer,16,324202,16.0,4357275
+TXN-0287,2024-06-13,East,Electronics,Tablet,Eka Pratama,Wholesale,Online,Digital Wallet,2,4474516,21.0,7069735
+TXN-0288,2024-07-02,West,Automotive,Tire Set,Andi Saputra,Retail,In-Store,Credit Card,2,3070292,9.0,5587931
+TXN-0289,2024-07-17,South,Beauty,Moisturizer,Fajar Nugroho,Retail,In-Store,Digital Wallet,5,228825,0.0,1144125
+TXN-0290,2024-10-17,East,Home & Living,Dining Table,Irma Susanti,Corporate,Reseller,BNPL,10,2904297,12.0,25557814
+TXN-0291,2024-01-29,South,Clothing,Sneakers,Citra Dewi,Retail,Online,Cash,3,867005,11.0,2314903
+TXN-0292,2024-06-14,North,Electronics,Laptop,Budi Hartono,Wholesale,Reseller,Digital Wallet,12,8259423,19.0,80281592
+TXN-0293,2024-10-27,North,Clothing,Jeans,Hendra Wijaya,Corporate,In-Store,Bank Transfer,11,382812,12.0,3705620
+TXN-0294,2024-12-21,Central,Home & Living,Bed Frame,Eka Pratama,Retail,In-Store,Credit Card,3,5019678,2.0,14757853
+TXN-0295,2024-12-25,Central,Food & Beverage,Protein Bar,Joko Purnomo,Retail,In-Store,BNPL,2,59853,10.0,107735
+TXN-0296,2024-09-11,North,Sports,Dumbbell Set,Budi Hartono,Retail,Online,Cash,3,619478,7.0,1728344
+TXN-0297,2024-05-07,West,Food & Beverage,Coffee Pack,Gita Lestari,Wholesale,Online,Bank Transfer,6,84882,23.0,392155
+TXN-0298,2024-07-12,South,Food & Beverage,Fruit Juice,Dian Rahayu,Wholesale,In-Store,Digital Wallet,6,47693,14.0,246096
+TXN-0299,2024-01-18,South,Clothing,T-Shirt,Budi Hartono,Retail,Online,Bank Transfer,5,164341,14.0,706666
+TXN-0300,2024-06-22,East,Home & Living,Lamp,Joko Purnomo,Wholesale,Online,Cash,14,322088,8.0,4148493
+TXN-0301,2024-04-15,Central,Food & Beverage,Protein Bar,Eka Pratama,Wholesale,In-Store,Credit Card,10,59145,10.0,532305
+TXN-0302,2024-10-19,East,Food & Beverage,Coffee Pack,Joko Purnomo,Retail,Online,Credit Card,4,76938,3.0,298519
+TXN-0303,2024-03-28,West,Automotive,Dashboard Camera,Hendra Wijaya,Corporate,Online,Bank Transfer,9,958384,10.0,7762910
+TXN-0304,2024-04-04,South,Food & Beverage,Snack Box,Dian Rahayu,Retail,Online,Bank Transfer,3,111627,8.0,308091
+TXN-0305,2024-12-22,West,Electronics,Tablet,Dian Rahayu,Corporate,Online,Digital Wallet,18,4398395,9.0,72045710
+TXN-0306,2024-09-24,East,Home & Living,Lamp,Gita Lestari,Wholesale,Online,Credit Card,2,378032,15.0,642654
+TXN-0307,2024-10-19,West,Home & Living,Sofa Set,Citra Dewi,Corporate,Online,BNPL,7,5088805,26.0,26360010
+TXN-0308,2024-08-04,North,Sports,Dumbbell Set,Eka Pratama,Corporate,In-Store,Digital Wallet,11,703843,28.0,5574437
+TXN-0309,2024-02-04,North,Home & Living,Curtain,Andi Saputra,Retail,Online,Bank Transfer,5,507042,9.0,2307041
+TXN-0310,2024-02-27,East,Electronics,Headphones,Budi Hartono,Wholesale,Reseller,Credit Card,19,1268579,21.0,19041371
+TXN-0311,2024-10-01,Central,Beauty,Lip Gloss,Andi Saputra,Retail,In-Store,Cash,2,88233,4.0,169407
+TXN-0312,2024-11-07,West,Food & Beverage,Fruit Juice,Hendra Wijaya,Corporate,Online,Credit Card,9,40682,28.0,263619
+TXN-0313,2024-06-04,South,Beauty,Serum,Hendra Wijaya,Corporate,Online,Bank Transfer,11,314673,14.0,2976807
+TXN-0314,2024-11-26,North,Food & Beverage,Fruit Juice,Andi Saputra,Wholesale,In-Store,Digital Wallet,17,41091,21.0,551852
+TXN-0315,2024-12-29,East,Electronics,Headphones,Dian Rahayu,Corporate,Online,Credit Card,2,1189548,13.0,2069814
+TXN-0316,2024-07-03,West,Clothing,Dress,Andi Saputra,Wholesale,In-Store,Credit Card,8,458464,12.0,3227587
+TXN-0317,2024-03-31,Central,Food & Beverage,Protein Bar,Budi Hartono,Retail,Online,Digital Wallet,3,59145,0.0,177435
+TXN-0318,2024-10-19,West,Clothing,Jeans,Gita Lestari,Wholesale,In-Store,Credit Card,17,369621,5.0,5969379
+TXN-0319,2024-12-15,North,Automotive,Tire Set,Eka Pratama,Wholesale,Online,Credit Card,9,2730826,13.0,21382368
+TXN-0320,2024-06-27,East,Clothing,Jacket,Budi Hartono,Wholesale,Reseller,Bank Transfer,1,671106,15.0,570440
+TXN-0321,2024-07-10,East,Home & Living,Bed Frame,Eka Pratama,Retail,Online,Credit Card,3,4570701,13.0,11929530
+TXN-0322,2024-12-30,Central,Sports,Dumbbell Set,Joko Purnomo,Retail,In-Store,Digital Wallet,4,673498,10.0,2424593
+TXN-0323,2024-01-14,West,Automotive,Car Seat Cover,Joko Purnomo,Corporate,Online,Digital Wallet,19,406826,26.0,5719974
+TXN-0324,2024-04-23,West,Home & Living,Lamp,Citra Dewi,Corporate,In-Store,Bank Transfer,18,321832,12.0,5097819
+TXN-0325,2024-03-06,West,Sports,Swimming Goggles,Fajar Nugroho,Wholesale,Online,Cash,3,170040,9.0,464209
+TXN-0326,2024-06-06,East,Beauty,Lip Gloss,Hendra Wijaya,Retail,Online,Digital Wallet,1,96588,13.0,84032
+TXN-0327,2024-11-13,North,Beauty,Foundation,Gita Lestari,Retail,In-Store,Bank Transfer,1,288348,13.0,250863
+TXN-0328,2024-04-12,South,Automotive,Dashboard Camera,Budi Hartono,Retail,Reseller,Credit Card,4,1042462,5.0,3961356
+TXN-0329,2024-06-09,West,Electronics,Tablet,Citra Dewi,Retail,In-Store,Cash,4,4751777,12.0,16726255
+TXN-0330,2024-03-07,West,Home & Living,Lamp,Irma Susanti,Retail,In-Store,Credit Card,2,381505,11.0,679079
+TXN-0331,2024-06-13,West,Home & Living,Sofa Set,Fajar Nugroho,Wholesale,In-Store,Credit Card,10,5371906,8.0,49421535
+TXN-0332,2024-10-28,South,Electronics,Smartphone,Joko Purnomo,Retail,Online,Digital Wallet,5,3771582,5.0,17915014
+TXN-0333,2024-03-09,South,Automotive,Car Seat Cover,Gita Lestari,Wholesale,Online,BNPL,1,439082,10.0,395174
+TXN-0334,2024-03-08,South,Electronics,Headphones,Andi Saputra,Retail,Online,Cash,4,1141389,13.0,3972034
+TXN-0335,2024-09-30,West,Home & Living,Sofa Set,Budi Hartono,Wholesale,In-Store,Credit Card,14,5085955,14.0,61234898
+TXN-0336,2024-05-09,East,Electronics,Smartphone,Eka Pratama,Retail,In-Store,Cash,5,3246014,9.0,14769364
+TXN-0337,2024-02-23,East,Home & Living,Bed Frame,Dian Rahayu,Retail,Online,Credit Card,3,5254195,12.0,13871075
+TXN-0338,2024-07-02,West,Clothing,T-Shirt,Hendra Wijaya,Wholesale,Reseller,Cash,11,135382,10.0,1340282
+TXN-0339,2024-02-15,Central,Beauty,Perfume,Budi Hartono,Retail,Online,Bank Transfer,3,574983,10.0,1552454
+TXN-0340,2024-05-31,South,Electronics,Laptop,Fajar Nugroho,Corporate,Reseller,Bank Transfer,14,7351998,24.0,78225259
+TXN-0341,2024-01-24,North,Electronics,Laptop,Eka Pratama,Retail,Reseller,BNPL,1,7748356,6.0,7283455
+TXN-0342,2024-02-28,East,Automotive,Car Seat Cover,Gita Lestari,Corporate,In-Store,Bank Transfer,6,436478,10.0,2356981
+TXN-0343,2024-01-31,Central,Beauty,Serum,Hendra Wijaya,Retail,In-Store,Digital Wallet,2,337867,9.0,614918
+TXN-0344,2024-11-09,North,Sports,Dumbbell Set,Hendra Wijaya,Retail,In-Store,Digital Wallet,1,670147,1.0,663446
+TXN-0345,2024-01-07,West,Sports,Swimming Goggles,Fajar Nugroho,Wholesale,Online,BNPL,17,187221,15.0,2705343
+TXN-0346,2024-02-18,East,Sports,Bicycle,Irma Susanti,Retail,In-Store,Bank Transfer,5,3291775,1.0,16294286
+TXN-0347,2024-03-21,East,Food & Beverage,Fruit Juice,Dian Rahayu,Corporate,Online,Bank Transfer,11,40953,29.0,319843
+TXN-0348,2024-04-24,East,Food & Beverage,Snack Box,Budi Hartono,Retail,Online,Cash,4,110849,7.0,412358
+TXN-0349,2024-09-11,West,Electronics,Smart TV,Budi Hartono,Retail,In-Store,Credit Card,5,6165046,14.0,26509698
+TXN-0350,2024-09-17,East,Sports,Bicycle,Dian Rahayu,Corporate,Online,Credit Card,15,3371146,15.0,42982112
+TXN-0351,2024-11-03,East,Sports,Bicycle,Fajar Nugroho,Retail,In-Store,Credit Card,3,3497238,12.0,9232708
+TXN-0352,2024-05-29,East,Food & Beverage,Coffee Pack,Gita Lestari,Retail,Online,Credit Card,1,79831,4.0,76638
+TXN-0353,2024-03-02,Central,Food & Beverage,Fruit Juice,Gita Lestari,Corporate,Online,Bank Transfer,2,48037,28.0,69173
+TXN-0354,2024-10-28,North,Automotive,Dashboard Camera,Hendra Wijaya,Wholesale,Reseller,Credit Card,1,864229,16.0,725952
+TXN-0355,2024-08-09,West,Food & Beverage,Protein Bar,Citra Dewi,Wholesale,Reseller,Cash,5,67048,7.0,311773
+TXN-0356,2024-11-06,Central,Food & Beverage,Fruit Juice,Dian Rahayu,Retail,In-Store,Cash,3,43586,6.0,122913
+TXN-0357,2024-05-30,East,Electronics,Smart TV,Irma Susanti,Wholesale,Reseller,Bank Transfer,11,6522614,19.0,58116491
+TXN-0358,2024-11-19,South,Clothing,Jacket,Citra Dewi,Wholesale,Reseller,Credit Card,17,667794,16.0,9536098
+TXN-0359,2024-12-29,North,Food & Beverage,Fruit Juice,Irma Susanti,Wholesale,Reseller,Digital Wallet,10,44301,23.0,341118
+TXN-0360,2024-01-07,East,Electronics,Laptop,Citra Dewi,Retail,Online,Credit Card,3,7434285,10.0,20072570
+TXN-0361,2024-02-01,West,Clothing,Sneakers,Irma Susanti,Retail,Reseller,Credit Card,2,809803,11.0,1441449
+TXN-0362,2024-05-01,East,Beauty,Lip Gloss,Gita Lestari,Wholesale,Online,Bank Transfer,11,86522,24.0,723324
+TXN-0363,2024-05-08,South,Beauty,Perfume,Fajar Nugroho,Corporate,Reseller,Digital Wallet,19,591993,20.0,8998294
+TXN-0364,2024-04-09,South,Electronics,Smartphone,Gita Lestari,Retail,Online,Bank Transfer,1,3539619,6.0,3327242
+TXN-0365,2024-03-07,North,Beauty,Serum,Citra Dewi,Retail,In-Store,Credit Card,3,337514,9.0,921413
+TXN-0366,2024-11-16,West,Sports,Bicycle,Fajar Nugroho,Wholesale,In-Store,Credit Card,17,2997676,9.0,46374048
+TXN-0367,2024-02-04,West,Electronics,Headphones,Dian Rahayu,Wholesale,Online,Credit Card,11,1150458,12.0,11136433
+TXN-0368,2024-11-12,East,Automotive,Car Wax,Joko Purnomo,Retail,Online,Credit Card,5,163436,4.0,784493
+TXN-0369,2024-06-13,East,Beauty,Serum,Irma Susanti,Retail,In-Store,Credit Card,3,320559,8.0,884743
+TXN-0370,2024-09-06,North,Automotive,Tire Set,Irma Susanti,Retail,Online,Credit Card,5,2556664,0.0,12783320
+TXN-0371,2024-12-09,West,Clothing,Dress,Gita Lestari,Corporate,Online,Digital Wallet,3,418838,24.0,954951
+TXN-0372,2024-08-23,West,Electronics,Smartphone,Joko Purnomo,Retail,In-Store,Cash,2,3435343,14.0,5908790
+TXN-0373,2024-08-18,West,Food & Beverage,Coffee Pack,Joko Purnomo,Retail,Online,Credit Card,1,86455,11.0,76945
+TXN-0374,2024-12-24,West,Food & Beverage,Protein Bar,Budi Hartono,Retail,In-Store,Bank Transfer,3,64190,11.0,171387
+TXN-0375,2024-07-21,West,Electronics,Laptop,Irma Susanti,Wholesale,Online,Bank Transfer,10,7430521,24.0,56471960
+TXN-0376,2024-12-12,Central,Automotive,Car Seat Cover,Citra Dewi,Corporate,Online,Digital Wallet,4,426108,9.0,1551033
+TXN-0377,2024-07-20,East,Automotive,Car Seat Cover,Dian Rahayu,Retail,In-Store,Digital Wallet,4,449523,14.0,1546359
+TXN-0378,2024-03-13,North,Clothing,Jacket,Andi Saputra,Retail,Online,Digital Wallet,5,656456,7.0,3052520
+TXN-0379,2024-05-28,West,Clothing,Jeans,Citra Dewi,Wholesale,In-Store,Bank Transfer,8,358366,7.0,2666243
+TXN-0380,2024-04-09,South,Food & Beverage,Protein Bar,Joko Purnomo,Wholesale,In-Store,Credit Card,12,70963,21.0,672729
+TXN-0381,2024-03-27,North,Clothing,Jeans,Fajar Nugroho,Wholesale,In-Store,Credit Card,5,338209,19.0,1369746
+TXN-0382,2024-09-02,East,Food & Beverage,Mineral Water,Budi Hartono,Retail,Online,Cash,3,23200,13.0,60552
+TXN-0383,2024-10-02,North,Sports,Yoga Mat,Andi Saputra,Wholesale,Reseller,Digital Wallet,19,295075,17.0,4653333
+TXN-0384,2024-04-18,Central,Home & Living,Curtain,Citra Dewi,Corporate,In-Store,Cash,12,517578,17.0,5155077
+TXN-0385,2024-10-28,West,Clothing,Dress,Andi Saputra,Wholesale,Online,Bank Transfer,8,477589,22.0,2980155
+TXN-0386,2024-11-10,West,Beauty,Moisturizer,Citra Dewi,Retail,Online,BNPL,4,199778,14.0,687236
+TXN-0387,2024-09-06,South,Clothing,Jeans,Fajar Nugroho,Retail,Online,BNPL,4,346825,7.0,1290189
+TXN-0388,2024-01-24,North,Home & Living,Sofa Set,Eka Pratama,Wholesale,In-Store,Digital Wallet,19,5141235,16.0,82054111
+TXN-0389,2024-11-30,South,Home & Living,Sofa Set,Irma Susanti,Wholesale,Online,BNPL,13,5904491,12.0,67547377
+TXN-0390,2024-09-06,West,Beauty,Serum,Budi Hartono,Wholesale,Online,Credit Card,17,301537,18.0,4203426
+TXN-0391,2024-04-05,North,Home & Living,Sofa Set,Budi Hartono,Wholesale,Online,Bank Transfer,16,5476923,19.0,70980922
+TXN-0392,2024-10-29,North,Beauty,Serum,Citra Dewi,Retail,Online,Cash,5,324625,1.0,1606894
+TXN-0393,2024-01-29,North,Automotive,Engine Oil,Andi Saputra,Corporate,In-Store,Cash,10,301862,29.0,2143220
+TXN-0394,2024-11-06,Central,Beauty,Moisturizer,Joko Purnomo,Retail,Online,Credit Card,2,220475,9.0,401264
+TXN-0395,2024-03-26,West,Clothing,Dress,Citra Dewi,Wholesale,Online,Bank Transfer,4,452044,5.0,1717767
+TXN-0396,2024-09-15,West,Beauty,Foundation,Andi Saputra,Retail,In-Store,Cash,5,286286,8.0,1316916
+TXN-0397,2024-09-03,West,Automotive,Engine Oil,Gita Lestari,Corporate,Reseller,Digital Wallet,17,343989,17.0,4853685
+TXN-0398,2024-12-23,East,Clothing,Dress,Joko Purnomo,Wholesale,Online,Cash,4,427907,14.0,1472000
+TXN-0399,2024-04-29,Central,Electronics,Headphones,Andi Saputra,Corporate,Online,Credit Card,19,1204743,19.0,18540995
+TXN-0400,2024-07-11,West,Sports,Running Shoes,Joko Purnomo,Retail,Online,Bank Transfer,3,956860,4.0,2755757
+TXN-0401,2024-10-16,South,Clothing,Dress,Hendra Wijaya,Wholesale,Online,Digital Wallet,6,454942,12.0,2402094
+TXN-0402,2024-05-09,Central,Home & Living,Lamp,Dian Rahayu,Wholesale,Reseller,Cash,15,381447,21.0,4520147
+TXN-0403,2024-02-21,South,Food & Beverage,Mineral Water,Andi Saputra,Corporate,In-Store,Cash,6,25679,17.0,127881
+TXN-0404,2024-02-16,West,Food & Beverage,Protein Bar,Budi Hartono,Retail,Online,Credit Card,5,63496,1.0,314305
+TXN-0405,2024-07-24,West,Food & Beverage,Protein Bar,Hendra Wijaya,Retail,In-Store,Credit Card,4,69557,0.0,278228
+TXN-0406,2024-09-22,South,Electronics,Headphones,Andi Saputra,Wholesale,In-Store,Cash,12,1080069,10.0,11664745
+TXN-0407,2024-03-21,North,Clothing,Dress,Irma Susanti,Retail,Online,Cash,1,411176,11.0,365947
+TXN-0408,2024-02-16,East,Sports,Swimming Goggles,Eka Pratama,Corporate,Online,BNPL,8,169003,21.0,1068099
+TXN-0409,2024-07-25,East,Clothing,Dress,Fajar Nugroho,Wholesale,In-Store,Bank Transfer,4,491104,21.0,1551889
+TXN-0410,2024-10-02,West,Home & Living,Lamp,Fajar Nugroho,Corporate,In-Store,Digital Wallet,15,377757,23.0,4363093
+TXN-0411,2024-01-15,East,Clothing,Dress,Dian Rahayu,Wholesale,Reseller,Cash,11,436779,13.0,4179975
+TXN-0412,2024-10-01,North,Beauty,Moisturizer,Fajar Nugroho,Retail,Online,Digital Wallet,1,205853,8.0,189385
+TXN-0413,2024-06-09,South,Automotive,Car Seat Cover,Dian Rahayu,Retail,In-Store,BNPL,4,397728,11.0,1415912
+TXN-0414,2024-05-03,Central,Clothing,Jeans,Budi Hartono,Corporate,Reseller,Bank Transfer,4,362307,28.0,1043444
+TXN-0415,2024-12-05,East,Electronics,Headphones,Fajar Nugroho,Corporate,Reseller,Bank Transfer,16,1291437,28.0,14877354
+TXN-0416,2024-10-21,Central,Food & Beverage,Protein Bar,Andi Saputra,Retail,Online,Cash,5,64718,12.0,284759
+TXN-0417,2024-10-03,North,Clothing,Jeans,Fajar Nugroho,Retail,Online,Bank Transfer,1,329753,0.0,329753
+TXN-0418,2024-10-24,North,Food & Beverage,Mineral Water,Joko Purnomo,Retail,Online,Credit Card,3,24994,5.0,71233
+TXN-0419,2024-04-17,East,Beauty,Lip Gloss,Citra Dewi,Corporate,Online,Credit Card,19,100970,23.0,1477191
+TXN-0420,2024-05-18,West,Home & Living,Lamp,Hendra Wijaya,Retail,Reseller,Digital Wallet,1,349972,3.0,339473
+TXN-0421,2024-11-18,East,Sports,Bicycle,Gita Lestari,Retail,In-Store,Cash,1,2918423,10.0,2626581
+TXN-0422,2024-05-10,East,Home & Living,Lamp,Irma Susanti,Wholesale,Online,Bank Transfer,9,343823,12.0,2723078
+TXN-0423,2024-06-28,Central,Automotive,Tire Set,Eka Pratama,Wholesale,In-Store,Bank Transfer,12,2805849,12.0,29629765
+TXN-0424,2024-08-16,Central,Food & Beverage,Mineral Water,Fajar Nugroho,Retail,Reseller,Digital Wallet,4,25358,9.0,92303
+TXN-0425,2024-02-06,North,Clothing,Jacket,Gita Lestari,Retail,Online,Credit Card,3,686527,13.0,1791835
+TXN-0426,2024-07-04,West,Food & Beverage,Fruit Juice,Dian Rahayu,Retail,Online,Credit Card,3,46806,14.0,120759
+TXN-0427,2024-02-10,South,Food & Beverage,Coffee Pack,Andi Saputra,Retail,Reseller,Bank Transfer,4,93432,8.0,343830
+TXN-0428,2024-02-23,South,Electronics,Smart TV,Citra Dewi,Retail,Online,Credit Card,2,5604730,8.0,10312703
+TXN-0429,2024-01-18,West,Beauty,Lip Gloss,Eka Pratama,Corporate,In-Store,Digital Wallet,18,103921,18.0,1533874
+TXN-0430,2024-12-23,East,Home & Living,Lamp,Irma Susanti,Wholesale,In-Store,Cash,18,339302,11.0,5435618
+TXN-0431,2024-10-03,South,Electronics,Tablet,Andi Saputra,Retail,Online,Bank Transfer,5,4813152,12.0,21177869
+TXN-0432,2024-06-25,South,Home & Living,Lamp,Gita Lestari,Corporate,In-Store,Credit Card,10,370774,21.0,2929115
+TXN-0433,2024-10-07,South,Food & Beverage,Protein Bar,Gita Lestari,Retail,Online,Digital Wallet,4,59530,3.0,230976
+TXN-0434,2024-11-16,South,Beauty,Foundation,Irma Susanti,Corporate,In-Store,Credit Card,9,331916,17.0,2479413
+TXN-0435,2024-04-03,North,Electronics,Smart TV,Dian Rahayu,Wholesale,Online,Cash,11,5459558,5.0,57052381
+TXN-0436,2024-09-30,North,Automotive,Car Seat Cover,Dian Rahayu,Retail,In-Store,Digital Wallet,1,419461,2.0,411072
+TXN-0437,2024-06-24,East,Beauty,Perfume,Fajar Nugroho,Corporate,In-Store,Digital Wallet,3,632391,27.0,1384936
+TXN-0438,2024-01-29,South,Food & Beverage,Protein Bar,Gita Lestari,Retail,Online,Digital Wallet,1,68486,2.0,67116
+TXN-0439,2024-05-07,East,Automotive,Tire Set,Budi Hartono,Wholesale,Online,Bank Transfer,17,2636730,18.0,36756016
+TXN-0440,2024-07-18,West,Clothing,Jacket,Irma Susanti,Retail,In-Store,Digital Wallet,5,647560,2.0,3173044
+TXN-0441,2024-06-01,North,Beauty,Moisturizer,Andi Saputra,Corporate,Online,Bank Transfer,6,223727,25.0,1006772
+TXN-0442,2024-07-21,West,Electronics,Smartphone,Citra Dewi,Wholesale,In-Store,Cash,12,3324106,20.0,31911418
+TXN-0443,2024-09-12,North,Home & Living,Sofa Set,Budi Hartono,Retail,In-Store,Digital Wallet,2,5298414,7.0,9855050
+TXN-0444,2024-10-12,West,Beauty,Perfume,Citra Dewi,Wholesale,Online,Bank Transfer,9,578295,23.0,4007584
+TXN-0445,2024-08-12,East,Home & Living,Lamp,Hendra Wijaya,Retail,Online,Bank Transfer,3,356908,13.0,931530
+TXN-0446,2024-10-10,North,Home & Living,Lamp,Andi Saputra,Retail,Online,Bank Transfer,5,327987,6.0,1541539
+TXN-0447,2024-01-10,West,Food & Beverage,Protein Bar,Irma Susanti,Retail,In-Store,Cash,4,67382,3.0,261442
+TXN-0448,2024-10-09,North,Clothing,Dress,Budi Hartono,Wholesale,Online,Bank Transfer,2,416680,22.0,650021
+TXN-0449,2024-01-17,South,Food & Beverage,Coffee Pack,Hendra Wijaya,Retail,In-Store,Bank Transfer,5,86535,9.0,393734
+TXN-0450,2024-01-26,South,Home & Living,Sofa Set,Budi Hartono,Retail,Reseller,Cash,4,5016770,12.0,17659030
+TXN-0451,2024-10-12,West,Automotive,Car Seat Cover,Irma Susanti,Wholesale,Online,Cash,2,448094,20.0,716950
+TXN-0452,2024-02-09,Central,Automotive,Car Wax,Dian Rahayu,Retail,Online,Bank Transfer,5,182521,10.0,821344
+TXN-0453,2024-04-01,East,Home & Living,Sofa Set,Gita Lestari,Wholesale,In-Store,Cash,4,5148436,8.0,18946244
+TXN-0454,2024-07-24,East,Sports,Swimming Goggles,Fajar Nugroho,Corporate,Online,Bank Transfer,18,173688,30.0,2188469
+TXN-0455,2024-07-09,East,Home & Living,Bed Frame,Irma Susanti,Wholesale,In-Store,Credit Card,9,4754307,12.0,37654111
+TXN-0456,2024-07-22,North,Electronics,Tablet,Eka Pratama,Wholesale,In-Store,BNPL,1,4249698,11.0,3782231
+TXN-0457,2024-06-10,North,Beauty,Lip Gloss,Joko Purnomo,Corporate,In-Store,Cash,5,94247,10.0,424112
+TXN-0458,2024-03-20,North,Food & Beverage,Protein Bar,Joko Purnomo,Retail,Online,Bank Transfer,4,61327,9.0,223230
+TXN-0459,2024-02-09,West,Beauty,Moisturizer,Budi Hartono,Retail,Reseller,Digital Wallet,5,199644,10.0,898398
+TXN-0460,2024-10-22,East,Beauty,Lip Gloss,Budi Hartono,Retail,Reseller,Bank Transfer,2,101640,11.0,180919
+TXN-0461,2024-01-06,West,Home & Living,Sofa Set,Citra Dewi,Retail,Online,Bank Transfer,3,5192877,8.0,14332341
+TXN-0462,2024-01-26,West,Automotive,Dashboard Camera,Gita Lestari,Wholesale,In-Store,Credit Card,10,883122,21.0,6976664
+TXN-0463,2024-06-21,North,Home & Living,Sofa Set,Gita Lestari,Wholesale,Online,Bank Transfer,5,5479015,20.0,21916060
+TXN-0464,2024-04-11,East,Sports,Dumbbell Set,Dian Rahayu,Wholesale,Reseller,Bank Transfer,3,640909,10.0,1730454
+TXN-0465,2024-12-16,Central,Electronics,Smart TV,Joko Purnomo,Retail,Online,Bank Transfer,1,5603106,12.0,4930733
+TXN-0466,2024-06-28,West,Automotive,Dashboard Camera,Dian Rahayu,Wholesale,Online,BNPL,7,884638,19.0,5015897
+TXN-0467,2024-02-13,North,Electronics,Headphones,Andi Saputra,Corporate,Reseller,Digital Wallet,11,1106707,23.0,9373808
+TXN-0468,2024-08-18,East,Clothing,Sneakers,Irma Susanti,Retail,In-Store,Digital Wallet,4,878768,9.0,3198716
+TXN-0469,2024-12-21,West,Electronics,Headphones,Andi Saputra,Corporate,In-Store,Credit Card,10,1247166,12.0,10975061
+TXN-0470,2024-05-18,North,Sports,Yoga Mat,Fajar Nugroho,Retail,In-Store,Cash,1,300575,0.0,300575
+TXN-0471,2024-11-28,East,Automotive,Engine Oil,Joko Purnomo,Corporate,Online,Bank Transfer,18,300728,10.0,4871794
+TXN-0472,2024-08-22,East,Sports,Yoga Mat,Gita Lestari,Retail,In-Store,Bank Transfer,2,290321,0.0,580642
+TXN-0473,2024-06-30,West,Clothing,Sneakers,Gita Lestari,Retail,Online,Credit Card,1,871859,14.0,749799
+TXN-0474,2024-04-25,North,Automotive,Tire Set,Joko Purnomo,Retail,Online,BNPL,2,2840823,6.0,5340747
+TXN-0475,2024-08-06,Central,Automotive,Car Seat Cover,Joko Purnomo,Retail,Online,Cash,5,394994,10.0,1777473
+TXN-0476,2024-03-11,South,Sports,Swimming Goggles,Citra Dewi,Corporate,Online,BNPL,19,173430,28.0,2372522
+TXN-0477,2024-10-12,East,Sports,Dumbbell Set,Fajar Nugroho,Retail,Reseller,Digital Wallet,4,624435,14.0,2148056
+TXN-0478,2024-11-22,Central,Clothing,Jeans,Joko Purnomo,Retail,Online,Digital Wallet,5,354693,4.0,1702526
+TXN-0479,2024-04-28,East,Clothing,T-Shirt,Irma Susanti,Retail,In-Store,Bank Transfer,5,154487,7.0,718365
+TXN-0480,2024-04-04,Central,Food & Beverage,Snack Box,Andi Saputra,Retail,Online,Bank Transfer,3,113341,14.0,292420
+TXN-0481,2024-12-09,Central,Beauty,Serum,Joko Purnomo,Retail,Reseller,Bank Transfer,4,343474,10.0,1236506
+TXN-0482,2024-05-06,East,Beauty,Foundation,Joko Purnomo,Wholesale,Online,Bank Transfer,19,311564,17.0,4913364
+TXN-0483,2024-12-26,West,Food & Beverage,Fruit Juice,Dian Rahayu,Retail,Reseller,Digital Wallet,5,49354,8.0,227028
+TXN-0484,2024-01-21,East,Food & Beverage,Coffee Pack,Eka Pratama,Retail,Online,Digital Wallet,4,81505,2.0,319500
+TXN-0485,2024-01-28,West,Automotive,Dashboard Camera,Budi Hartono,Corporate,In-Store,Digital Wallet,6,1033190,25.0,4649355
+TXN-0486,2024-12-22,East,Food & Beverage,Mineral Water,Dian Rahayu,Retail,Online,Cash,4,24120,1.0,95515
+TXN-0487,2024-11-28,Central,Beauty,Serum,Budi Hartono,Retail,In-Store,Cash,5,334520,11.0,1488614
+TXN-0488,2024-09-18,West,Electronics,Headphones,Joko Purnomo,Retail,In-Store,BNPL,2,1114706,2.0,2184824
+TXN-0489,2024-12-30,North,Clothing,Dress,Dian Rahayu,Retail,Online,Digital Wallet,1,427780,9.0,389280
+TXN-0490,2024-08-22,East,Food & Beverage,Coffee Pack,Hendra Wijaya,Wholesale,In-Store,Credit Card,15,77850,13.0,1015942
+TXN-0491,2024-11-03,North,Beauty,Lip Gloss,Andi Saputra,Wholesale,In-Store,Digital Wallet,6,97912,8.0,540474
+TXN-0492,2024-01-19,North,Electronics,Headphones,Andi Saputra,Corporate,Online,BNPL,4,1122780,17.0,3727630
+TXN-0493,2024-12-10,South,Sports,Swimming Goggles,Joko Purnomo,Wholesale,In-Store,BNPL,12,165353,24.0,1508019
+TXN-0494,2024-06-02,South,Automotive,Car Wax,Hendra Wijaya,Wholesale,Reseller,Credit Card,5,192939,7.0,897166
+TXN-0495,2024-06-17,East,Food & Beverage,Snack Box,Irma Susanti,Wholesale,Online,Digital Wallet,3,124528,15.0,317546
+TXN-0496,2024-12-27,South,Home & Living,Bed Frame,Citra Dewi,Retail,In-Store,Cash,5,4818918,8.0,22167023
+TXN-0497,2024-11-19,East,Beauty,Foundation,Budi Hartono,Retail,Online,Credit Card,1,328397,7.0,305409
+TXN-0498,2024-04-16,West,Automotive,Dashboard Camera,Dian Rahayu,Retail,Online,Digital Wallet,1,986103,10.0,887493
+TXN-0499,2024-05-10,West,Clothing,Sneakers,Fajar Nugroho,Wholesale,In-Store,Credit Card,11,811027,13.0,7761528
+TXN-0500,2024-01-15,West,Electronics,Tablet,Andi Saputra,Corporate,In-Store,Bank Transfer,5,4614480,19.0,18688644
